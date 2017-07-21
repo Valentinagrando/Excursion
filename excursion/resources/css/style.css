@@ -2,7 +2,7 @@ body{
   background-color: black;
 
 }
-h1,h2,.description,.phoneicon,.download{
+h1,h2,.description,.phoneicon{
   text-align: center;
   font-family: Verdana;
 }
@@ -24,7 +24,7 @@ h2{
   color: gray;
   font-size: 21px;
 }
-.copyright{
+#copyright{
   text-align: right;
   color: Gray;
   font-family: Verdana;
@@ -33,7 +33,12 @@ a{
   color:Aquamarine;
   font-size: 16px;
   text-align: center;
+  font-family: Verdana;
 }
 img, video{
   text-align: center;
+}
+p{
+  text-align: center;
+  font-family: Verdana;
 }
