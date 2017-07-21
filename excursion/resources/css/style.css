@@ -35,8 +35,9 @@ a{
   text-align: center;
   font-family: Verdana;
 }
-img, video{
-  text-align: center;
+.imagecentered{
+  text-align:center;
+  display:block;
 }
 p{
   text-align: center;
