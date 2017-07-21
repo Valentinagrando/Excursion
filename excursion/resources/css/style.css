@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+
+}
+h1,h2,.description,.phoneicon,.download{
+  text-align: center;
+  font-family: Verdana;
+}
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.download{
+  color: Aquamarine;
+  font-size: 16px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+.description{
+  color: gray;
+  font-size: 21px;
+}
+.copyright{
+  text-align: right;
+  color: gray;
+  font-family: Verdana;
+}
